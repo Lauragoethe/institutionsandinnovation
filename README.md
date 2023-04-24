@@ -1,4 +1,4 @@
 # Institutions and Innovation 
-Script for Course Institutions &amp; Innovation (Goethe Master)
+Script for Tutorial Institutions and Innovation (Goethe Master)
 
 First edit
