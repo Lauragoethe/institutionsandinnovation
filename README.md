@@ -14,4 +14,6 @@ give me a table with 3 columns and 3 rows
 | 4 | 5 | 6 |
 | 7 | 8 | 9 |
 
-
+## Install R to Linux
+```bash
+sudo apt-get update
